@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mehdi Tayarth 👋
 
-<!--
-**mehdiRTH/mehdiRTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with over **two years of experience** in building efficient and scalable web applications. Currently based in the **Netherlands**, I'm passionate about delivering clean, effective solutions while continuously expanding my technical skillset.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- **Back-End:** Laravel
+- **Front-End:** Vue.js, jQuery
+- **CSS Frameworks:** Tailwind CSS, Bootstrap
+- **Database Management:** MySQL, PostgreSQL (if applicable)
+- **Version Control:** Git
+
+---
+
+### 🌱 What I’m Currently Learning
+
+- Improving **Dutch language** skills for better professional communication.
+- Deepening my knowledge in **Test-Driven Development (TDD)** and **DevOps** practices, including CI/CD pipelines.
+
+---
+
+### 📈 My Development Journey
+
+I'm a self-learner passionate about exploring new technologies and enhancing my skills. I have hands-on experience with various development methodologies, including **MVC**, **Design Patterns**, **dependency injection**, and **API handling**.
+
+---
+
+### 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/tayarth-elmehdi) (Add your link)
+- [Email](mailto:tayarthmehdi@gmail.com)
