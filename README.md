@@ -6,10 +6,10 @@ I'm a **Full-Stack Developer** with over **two years of experience** in building
 
 ### 🛠️ Technologies & Tools
 
-- **Back-End:** Laravel
-- **Front-End:** Vue.js, jQuery
+- **Back-End:** PHP, Laravel
+- **Front-End:** Javascript, Vue.js, jQuery
 - **CSS Frameworks:** Tailwind CSS, Bootstrap
-- **Database Management:** MySQL, PostgreSQL (if applicable)
+- **Database Management:** MySQL
 - **Version Control:** Git
 
 ---
@@ -29,5 +29,5 @@ I'm a self-learner passionate about exploring new technologies and enhancing my 
 
 ### 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/tayarth-elmehdi) (Add your link)
+- [LinkedIn](https://www.linkedin.com/tayarth-elmehdi)
 - [Email](mailto:tayarthmehdi@gmail.com)
